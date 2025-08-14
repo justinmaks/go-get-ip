@@ -1,6 +1,6 @@
 # go-get-ip
 
-A lightweight, production-ready Go API service that returns the client's IP address. Designed to work behind reverse proxies like Nginx and Cloudflare with intelligent IP detection fallback strategies.
+A lightweight, production-ready Go API service that returns the client's IP address. Designed to work behind reverse proxies like Nginx and Cloudflare with IP detection fallback strategies.
 
 ## API Endpoints
 
